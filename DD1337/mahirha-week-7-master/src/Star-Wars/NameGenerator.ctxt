@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NameGenerator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=NameGenerator()
+comment3.params=f\ s\ maiden\ birth
+comment3.target=java.lang.String\ generateName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4
